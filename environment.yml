@@ -25,4 +25,4 @@ dependencies:
     - jupyter_contrib_nbextensions
     - umap-learn
     - memo-ms
-    - tqmd
+    - tqdm
